@@ -1,3 +1,4 @@
+import urllib
 import urllib.request
 url='http://www.baidu.com/'
 req=urllib.request.Request(url,headers={
